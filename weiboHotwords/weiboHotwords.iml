@@ -1,0 +1,2847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/jcommon-1.0.10/jcommon-1.0.10.jar!/" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/javax.inject-1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-mapper-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/leveldbjni-all-1.8.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-lang-2.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-collections-3.2.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/asm-3.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jettison-1.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/zookeeper-3.4.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-guice-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-client-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guice-3.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-server-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jetty-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/netty-3.6.2.Final.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-codec-1.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-core-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-core-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-io-2.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-compress-1.4.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guava-11.0.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jetty-util-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-xc-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/protobuf-java-2.5.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/servlet-api-2.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-cli-1.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/log4j-1.2.17.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-json-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-logging-1.1.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-jaxrs-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jaxb-api-2.2.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jline-0.9.94.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/stax-api-1.0-2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-httpclient-3.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/xz-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guice-servlet-3.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/aopalliance-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/activation-1.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jsr305-1.3.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jaxb-impl-2.2.3-1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-api-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-common-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-nodemanager-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-web-proxy-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-resourcemanager-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-common-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-client-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-el-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-lang-2.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/asm-3.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-server-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/netty-3.6.2.Final.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-codec-1.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jsp-api-2.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-core-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-io-2.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/guava-11.0.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-util-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/xmlenc-0.52.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/protobuf-java-2.5.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/servlet-api-2.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-cli-1.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/log4j-1.2.17.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jasper-runtime-5.5.23.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-logging-1.1.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jsr305-1.3.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/hadoop-hdfs-nfs-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/hadoop-hdfs-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/javax.inject-1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-mapper-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/snappy-java-1.0.4.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/leveldbjni-all-1.8.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/hamcrest-core-1.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/asm-3.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/paranamer-2.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-3.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-server-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/netty-3.6.2.Final.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-core-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-core-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-io-2.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-compress-1.4.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/protobuf-java-2.5.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/log4j-1.2.17.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/avro-1.7.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/hadoop-annotations-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/junit-4.11.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/xz-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-servlet-3.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/aopalliance-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/httpcore-4.2.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-math3-3.1.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-mapper-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/snappy-java-1.0.4.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-el-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsch-0.1.42.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-lang-2.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jets3t-0.9.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-net-3.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/api-util-1.0.0-M20.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-collections-3.2.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hamcrest-core-1.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/api-asn1-api-1.0.0-M20.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/asm-3.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jettison-1.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/zookeeper-3.4.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/paranamer-2.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/java-xmlbuilder-0.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-server-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-beanutils-core-1.8.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/netty-3.6.2.Final.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-codec-1.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsp-api-2.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-core-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-core-asl-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-io-2.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-compress-1.4.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/guava-11.0.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-util-6.1.26.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-xc-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xmlenc-0.52.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/protobuf-java-2.5.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/servlet-api-2.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-digester-1.8.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-cli-1.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/log4j-1.2.17.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/avro-1.7.4.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jasper-runtime-5.5.23.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-json-1.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/slf4j-api-1.7.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jasper-compiler-5.5.23.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hadoop-annotations-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-logging-1.1.3.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-jaxrs-1.9.13.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/mockito-all-1.8.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-api-2.2.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/httpclient-4.2.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/apacheds-i18n-2.0.0-M15.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/slf4j-log4j12-1.7.5.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/stax-api-1.0-2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-httpclient-3.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/junit-4.11.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xz-1.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-beanutils-1.7.0.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-configuration-1.6.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/activation-1.1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsr305-1.3.9.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hadoop-auth-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-impl-2.2.3-1.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/hadoop-common-2.5.2.jar" />
+    <libelement value="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/hadoop-nfs-2.5.2.jar" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/org.wltea.analyzer.jar!/" />
+    <libelement value="file://$USER_HOME$/Downloads/毕业设计/IKAnalyzer-master/src/main/recources" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-jdbc-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-jdbc-1.2.2-standalone.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-core-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-fate-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-start-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-trace-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/activation-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ant-1.9.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ant-launcher-1.9.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/antlr-2.7.7.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/antlr-runtime-3.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/apache-log4j-extras-1.2.17.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/asm-commons-3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/asm-tree-3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/avro-1.7.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/bonecp-0.8.0.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-avatica-1.2.0-incubating.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-core-1.2.0-incubating.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-linq4j-1.2.0-incubating.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-1.7.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-core-1.8.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-cli-1.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-codec-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-collections-3.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-compiler-2.7.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-compress-1.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-configuration-1.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-dbcp-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-digester-1.8.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-httpclient-3.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-io-2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-lang-2.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-logging-1.1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-math-2.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-pool-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-vfs2-2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-client-2.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-framework-2.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-recipes-2.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-api-jdo-3.2.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-core-3.2.10.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-rdbms-3.2.9.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/derby-10.10.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/eigenbase-properties-1.1.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-jaspic_1.0_spec-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/groovy-all-2.1.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/guava-14.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hamcrest-core-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-accumulo-handler-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-ant-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-beeline-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-cli-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-common-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-contrib-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-exec-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-hbase-handler-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-hwi-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2-standalone.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-metastore-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-serde-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-service-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-0.20S-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-0.23-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-common-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-scheduler-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-testutils-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/httpclient-4.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/httpcore-4.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ivy-2.4.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/janino-2.7.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jcommander-1.32.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jdo-api-3.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jetty-all-7.6.0.v20120127.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jetty-all-server-7.6.0.v20120127.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jline-2.12.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/joda-time-2.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jpam-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/json-20090211.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jsr305-3.0.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jta-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/junit-4.11.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/libfb303-0.9.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/libthrift-0.9.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/log4j-1.2.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/mail-1.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-api-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-provider-svn-commons-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-provider-svnexe-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/netty-3.7.0.Final.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/opencsv-2.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/oro-2.0.8.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/paranamer-2.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/parquet-hadoop-bundle-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/plexus-utils-1.5.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/regexp-1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/servlet-api-2.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/snappy-java-1.0.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ST4-4.0.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/stax-api-1.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/stringtemplate-3.2.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/super-csv-2.2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/tempus-fugit-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/velocity-1.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/xz-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/zookeeper-3.4.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/jfreechart-1.0.9-experimental.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/jcommon-1.0.14.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/毕业设计/jfreechart-1.0.9.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/jcommon-1.0.10/jcommon-1.0.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.inject-1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/javax.inject-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-mapper-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leveldbjni-all-1.8.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/leveldbjni-all-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-lang-2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-collections-3.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-3.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/asm-3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jettison-1.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jettison-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zookeeper-3.4.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/zookeeper-3.4.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-guice-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-guice-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-client-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-client-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guice-3.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guice-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-server-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-server-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jetty-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-3.6.2.Final.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/netty-3.6.2.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-codec-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-core-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-core-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-core-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-io-2.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress-1.4.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-compress-1.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-11.0.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guava-11.0.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jetty-util-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-xc-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-xc-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/protobuf-java-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api-2.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/servlet-api-2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli-1.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-cli-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/log4j-1.2.17.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-json-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jersey-json-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-logging-1.1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-jaxrs-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jackson-jaxrs-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api-2.2.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jaxb-api-2.2.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jline-0.9.94.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jline-0.9.94.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api-1.0-2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/stax-api-1.0-2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/commons-httpclient-3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xz-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/xz-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guice-servlet-3.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/guice-servlet-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/aopalliance-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation-1.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/activation-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr305-1.3.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jsr305-1.3.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-impl-2.2.3-1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/lib/jaxb-impl-2.2.3-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-applications-distributedshell-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-applications-unmanaged-am-launcher-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-applicationhistoryservice-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-api-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-api-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-common-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-common-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-nodemanager-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-nodemanager-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-web-proxy-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-web-proxy-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-resourcemanager-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-resourcemanager-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-common-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-server-common-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-client-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/yarn/hadoop-yarn-client-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-daemon-1.0.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-el-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-el-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-lang-2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/asm-3.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/asm-3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-server-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-server-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/netty-3.6.2.Final.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/netty-3.6.2.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-codec-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsp-api-2.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jsp-api-2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-core-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jersey-core-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-io-2.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-io-2.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/guava-11.0.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/guava-11.0.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-util-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jetty-util-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlenc-0.52.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/xmlenc-0.52.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/protobuf-java-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/servlet-api-2.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/servlet-api-2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-cli-1.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-cli-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/log4j-1.2.17.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasper-runtime-5.5.23.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jasper-runtime-5.5.23.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/commons-logging-1.1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jsr305-1.3.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/lib/jsr305-1.3.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-hdfs-nfs-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/hadoop-hdfs-nfs-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-hdfs-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/hdfs/hadoop-hdfs-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/javax.inject-1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/javax.inject-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-mapper-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="snappy-java-1.0.4.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/snappy-java-1.0.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/leveldbjni-all-1.8.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/leveldbjni-all-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/hamcrest-core-1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/asm-3.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/asm-3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="paranamer-2.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/paranamer-2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-3.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-server-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-server-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/netty-3.6.2.Final.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/netty-3.6.2.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-core-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jersey-core-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/jackson-core-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-io-2.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-io-2.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-compress-1.4.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/commons-compress-1.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/protobuf-java-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/log4j-1.2.17.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avro-1.7.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/avro-1.7.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-annotations-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/hadoop-annotations-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.11.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/junit-4.11.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/xz-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/xz-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-servlet-3.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/guice-servlet-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/lib/aopalliance-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-app-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-hs-plugins-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-hs-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-core-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-shuffle-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-common-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-jobclient-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.2.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/httpcore-4.2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3-3.1.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-math3-3.1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-mapper-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/snappy-java-1.0.4.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/snappy-java-1.0.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-el-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-el-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsch-0.1.42.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsch-0.1.42.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-lang-2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jets3t-0.9.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jets3t-0.9.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-net-3.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-net-3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="api-util-1.0.0-M20.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/api-util-1.0.0-M20.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-collections-3.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hamcrest-core-1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apacheds-kerberos-codec-2.0.0-M15.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="api-asn1-api-1.0.0-M20.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/api-asn1-api-1.0.0-M20.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/asm-3.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/asm-3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jettison-1.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jettison-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/zookeeper-3.4.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/zookeeper-3.4.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/paranamer-2.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/paranamer-2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-xmlbuilder-0.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/java-xmlbuilder-0.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-server-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-server-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-core-1.8.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-beanutils-core-1.8.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/netty-3.6.2.Final.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/netty-3.6.2.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-codec-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsp-api-2.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsp-api-2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-core-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-core-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-core-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-io-2.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-io-2.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-compress-1.4.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-compress-1.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/guava-11.0.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/guava-11.0.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-util-6.1.26.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jetty-util-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-xc-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-xc-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xmlenc-0.52.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xmlenc-0.52.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/protobuf-java-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/servlet-api-2.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/servlet-api-2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-1.8.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-digester-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-cli-1.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-cli-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/log4j-1.2.17.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/avro-1.7.4.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/avro-1.7.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jasper-runtime-5.5.23.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jasper-runtime-5.5.23.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-json-1.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jersey-json-1.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/slf4j-api-1.7.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasper-compiler-5.5.23.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jasper-compiler-5.5.23.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hadoop-annotations-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hadoop-annotations-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-logging-1.1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-jaxrs-1.9.13.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jackson-jaxrs-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mockito-all-1.8.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/mockito-all-1.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-api-2.2.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-api-2.2.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.2.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/httpclient-4.2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apacheds-i18n-2.0.0-M15.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/apacheds-i18n-2.0.0-M15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.7.5.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/slf4j-log4j12-1.7.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/stax-api-1.0-2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/stax-api-1.0-2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-httpclient-3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/junit-4.11.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/junit-4.11.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xz-1.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/xz-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.7.0.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-beanutils-1.7.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-configuration-1.6.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/commons-configuration-1.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/activation-1.1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/activation-1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsr305-1.3.9.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jsr305-1.3.9.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-auth-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/hadoop-auth-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-impl-2.2.3-1.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/lib/jaxb-impl-2.2.3-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-common-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/hadoop-common-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-nfs-2.5.2.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/hadoop-2.5.2/share/hadoop/common/hadoop-nfs-2.5.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.wltea.analyzer.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/org.wltea.analyzer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="recources">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/毕业设计/IKAnalyzer-master/src/main/recources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-jdbc-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-jdbc-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-jdbc-1.2.2-standalone.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-jdbc-1.2.2-standalone.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="accumulo-core-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-core-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="accumulo-fate-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-fate-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="accumulo-start-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-start-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="accumulo-trace-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/accumulo-trace-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/activation-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/activation-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-1.9.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ant-1.9.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-launcher-1.9.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ant-launcher-1.9.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-2.7.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/antlr-2.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-runtime-3.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/antlr-runtime-3.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apache-log4j-extras-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/apache-log4j-extras-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-commons-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/asm-commons-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-tree-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/asm-tree-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avro-1.7.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/avro-1.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bonecp-0.8.0.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/bonecp-0.8.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="calcite-avatica-1.2.0-incubating.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-avatica-1.2.0-incubating.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="calcite-core-1.2.0-incubating.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-core-1.2.0-incubating.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="calcite-linq4j-1.2.0-incubating.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/calcite-linq4j-1.2.0-incubating.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-1.7.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-core-1.8.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-beanutils-core-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-cli-1.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-cli-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-codec-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-collections-3.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compiler-2.7.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-compiler-2.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-compress-1.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-compress-1.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-configuration-1.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-configuration-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-dbcp-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-digester-1.8.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-digester-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-httpclient-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-lang-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math-2.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-math-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-pool-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-vfs2-2.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/commons-vfs2-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-client-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-client-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-framework-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-framework-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-recipes-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/curator-recipes-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="datanucleus-api-jdo-3.2.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-api-jdo-3.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="datanucleus-core-3.2.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-core-3.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="datanucleus-rdbms-3.2.9.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/datanucleus-rdbms-3.2.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derby-10.10.2.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/derby-10.10.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="eigenbase-properties-1.1.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/eigenbase-properties-1.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-annotation_1.0_spec-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-jaspic_1.0_spec-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-jaspic_1.0_spec-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-jta_1.1_spec-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="groovy-all-2.1.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/groovy-all-2.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-14.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/guava-14.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hamcrest-core-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-accumulo-handler-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-accumulo-handler-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-ant-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-ant-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-beeline-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-beeline-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-cli-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-cli-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-common-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-common-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-contrib-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-contrib-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-exec-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-exec-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-hbase-handler-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-hbase-handler-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-hwi-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-hwi-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2-standalone.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2-standalone.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-jdbc-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-metastore-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-metastore-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-serde-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-serde-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-service-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-service-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-shims-0.20S-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-0.20S-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-shims-0.23-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-0.23-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-shims-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-shims-common-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-common-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-shims-scheduler-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-shims-scheduler-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hive-testutils-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/hive-testutils-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/httpclient-4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/httpcore-4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ivy-2.4.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ivy-2.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="janino-2.7.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/janino-2.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommander-1.32.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jcommander-1.32.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdo-api-3.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jdo-api-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-all-7.6.0.v20120127.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jetty-all-7.6.0.v20120127.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-all-server-7.6.0.v20120127.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jetty-all-server-7.6.0.v20120127.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jline-2.12.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jline-2.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joda-time-2.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/joda-time-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jpam-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jpam-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-20090211.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/json-20090211.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr305-3.0.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jsr305-3.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/jta-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/junit-4.11.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/junit-4.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="libfb303-0.9.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/libfb303-0.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="libthrift-0.9.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/libthrift-0.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail-1.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/mail-1.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-api-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-api-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-provider-svn-commons-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-provider-svn-commons-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-provider-svnexe-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/maven-scm-provider-svnexe-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-3.7.0.Final.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/netty-3.7.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opencsv-2.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/opencsv-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oro-2.0.8.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/oro-2.0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/paranamer-2.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/paranamer-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parquet-hadoop-bundle-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/parquet-hadoop-bundle-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/pentaho-aggdesigner-algorithm-5.1.5-jhyde.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/plexus-utils-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="regexp-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/regexp-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/servlet-api-2.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/servlet-api-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="snappy-java-1.0.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/snappy-java-1.0.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ST4-4.0.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/ST4-4.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/stax-api-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stringtemplate-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/stringtemplate-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="super-csv-2.2.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/super-csv-2.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tempus-fugit-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/tempus-fugit-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-1.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/velocity-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/xz-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/xz-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$USER_HOME$/Downloads/毕业设计/hive-lib/zookeeper-3.4.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/hive-lib/zookeeper-3.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.9-experimental.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/jfreechart-1.0.9-experimental.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.14.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/jcommon-1.0.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.9.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/毕业设计/jfreechart-1.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
